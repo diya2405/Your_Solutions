@@ -1,0 +1,142 @@
+Folder PATH listing for volume New Volume
+Volume serial number is 60BB-D399
+D:.
+¦   about.php
+¦   chatbot.php
+¦   diya.jpg
+¦   folderStructure.txt
+¦   image copy 2.png
+¦   image copy 3.png
+¦   image copy 4.png
+¦   image copy 5.png
+¦   image copy 6.png
+¦   image copy 7.png
+¦   image copy.png
+¦   image.png
+¦   index.php
+¦   kripa.jpg
+¦   login.php
+¦   navigation.php
+¦   script.js
+¦   sem1.php
+¦   sem2.php
+¦   sem3.php
+¦   sem4.php
+¦   sem5.php
+¦   sem6.php
+¦   signup.php
+¦   
++---Photos
+¦   ¦   bg.jpeg
+¦   ¦   welcome.jpg
+¦   ¦   
+¦   +---sem1
+¦   ¦       1.png
+¦   ¦       2.png
+¦   ¦       3.png
+¦   ¦       4.png
+¦   ¦       
+¦   +---sem2
+¦   ¦       1.png
+¦   ¦       2.png
+¦   ¦       3.png
+¦   ¦       4.png
+¦   ¦       
+¦   +---sem3
+¦   ¦       1.png
+¦   ¦       2.png
+¦   ¦       3.png
+¦   ¦       4.png
+¦   ¦       
+¦   +---sem4
+¦   ¦       1java.png
+¦   ¦       2edm.png
+¦   ¦       3ml.png
+¦   ¦       4cpd.png
+¦   ¦       5php.png
+¦   ¦       
+¦   +---sem5
+¦   ¦       1.png
+¦   ¦       2.png
+¦   ¦       3.png
+¦   ¦       4.png
+¦   ¦       
+¦   +---sem6
+¦       ¦   1.png
+¦       ¦   2.png
+¦       ¦   3.png
+¦       ¦   
+¦       +---sem3
+¦       ¦       1.png
+¦       ¦       2.png
+¦       ¦       3.png
+¦       ¦       4.png
+¦       ¦       
+¦       +---sem5
+¦               1.png
+¦               2.png
+¦               3.png
+¦               4.png
+¦               
++---Subject-resources
+    +---sem1
+    ¦       iis.php
+    ¦       Maths.php
+    ¦       python.php
+    ¦       
+    +---sem2
+    ¦       a-python.php
+    ¦       emath.php
+    ¦       ens.php
+    ¦       physics.php
+    ¦       
+    +---sem3
+    ¦       dm.php
+    ¦       ds.php
+    ¦       fosd.php
+    ¦       los.php
+    ¦       
+    +---sem4
+    ¦   ¦   cpd.php
+    ¦   ¦   edm.php
+    ¦   ¦   fml.php
+    ¦   ¦   oop.php
+    ¦   ¦   PHP.php
+    ¦   ¦   
+    ¦   +---cpd
+    ¦   ¦       Assignments.pdf
+    ¦   ¦       paper1.pdf
+    ¦   ¦       paper2.pdf
+    ¦   ¦       worksheets.pdf
+    ¦   ¦       
+    ¦   +---edm
+    ¦   ¦       Assignments.pdf
+    ¦   ¦       ch-1.pdf
+    ¦   ¦       ch-2.pdf
+    ¦   ¦       ch-3.pdf
+    ¦   ¦       ch-4.pdf
+    ¦   ¦       ch-5.pdf
+    ¦   ¦       manual.pdf
+    ¦   ¦       paper1.pdf
+    ¦   ¦       
+    ¦   +---fml
+    ¦   ¦       Assignments.pdf
+    ¦   ¦       ch-1.pdf
+    ¦   ¦       manual.pdf
+    ¦   ¦       ML_activites.pdf
+    ¦   ¦       paper1.pdf
+    ¦   ¦       paper2.pdf
+    ¦   ¦       
+    ¦   +---java
+    ¦           Assignment.pdf
+    ¦           ch-1.pdf
+    ¦           ch-2.pdf
+    ¦           ch-3.pdf
+    ¦           ch-4.pdf
+    ¦           ch-5.pdf
+    ¦           manual.pdf
+    ¦           paper1.pdf
+    ¦           paper2.pdf
+    ¦           
+    +---sem5
+    +---sem6
