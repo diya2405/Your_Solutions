@@ -131,8 +131,4 @@ Developed by **Diya Shah & Kripa Pattiwala**
 
 GitHub: https://github.com/diya2405
 
----
 
-# 📜 License
-
-This project is open-source and available under the **MIT License**.
